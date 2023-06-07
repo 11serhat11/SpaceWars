@@ -1,0 +1,20 @@
+# Unity generated
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# Visual Studio / Visual Studio Code generated
+/[Ee]xported[Uu]nityPackage/
+/[Vv]isual[Ss]tudio[Ss]tate/
+/[Vv]isual[Ss]tudio[Ss]tate[Cc]ache/
+/[Vv][Uu]nity[Cc]onsfiguration/
+
+# Build artifacts
+/Builds/
+
+# macOS
+.DS_Store
